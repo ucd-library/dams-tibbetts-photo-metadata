@@ -1,0 +1,32 @@
+[
+  {
+    "@id": "",
+    "@context": {
+      "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@type": [
+      "ucdlib:LabelService",
+      "ucdlib:Service"
+    ]
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1205542",
+    "http://schema.org/name": "California--Sacramento"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1207676",
+    "http://schema.org/name": "California--Davis"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1214190",
+    "http://schema.org/name": "California--Yolo County"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1726707",
+    "http://schema.org/name": "Postcards (form)"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/549782",
+    "http://schema.org/name": "University of California, Davis"
+  }
+]
