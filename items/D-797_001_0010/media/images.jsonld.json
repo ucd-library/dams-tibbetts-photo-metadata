@@ -8,13 +8,13 @@
     "ucdlib": "http://digital.ucdavis.edu/schema#",
     "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
   },
-  "@id": "/D-797_001_0007/media",
+  "@id": "/D-797_001_0010/media/images",
   "@type": [
-    "ucdlib:MediaList",
+    "ucdlib:ImageList",
     "ldp:DirectContainer",
     "schema:MediaObject"
   ],
-  "schema:name": "Media List",
+  "schema:name": "Image List",
   "ldp:hasMemberRelation": {
     "@id": "schema:hasPart"
   },
@@ -22,6 +22,6 @@
     "@id": "schema:partOf"
   },
   "ldp:membershipResource": {
-    "@id": "/D-797_001_0007"
+    "@id": "/D-797_001_0010/media"
   }
 }

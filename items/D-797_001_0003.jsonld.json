@@ -1,0 +1,39 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1241997",
+      "schema:name": "California--Sacramento River"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1205542",
+      "schema:name": "California--Sacramento"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/images"
+  },
+  "schema:name": "Sutter's Fort, Sacramento, California",
+  "schema:identifier": [
+    "ark:/87293/d3028pm2g"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/images/D-797_001_0003_recto.tif"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  }
+}
