@@ -26,12 +26,12 @@
   "schema:associatedMedia": {
     "@id": "@base:/media/images"
   },
-  "schema:name": "Sacramento River, Sacramento, California",
+  "schema:name": "High School, Fresno, California",
   "schema:identifier": [
     "ark:/87293/d3028pm2g"
   ],
   "schema:image": {
-    "@id": "@base:/media/images/D-797_001_0001_recto.tif"
+    "@id": "@base:/media/images/D-797_001_0005_recto.tif"
   },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

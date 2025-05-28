@@ -10,11 +10,18 @@
   },
   "@id": "",
   "@type": [
-    "schema:ImageObject",
-    "schema:CreativeWork",
+    "ucdlib:ImageList",
+    "ldp:DirectContainer",
     "schema:MediaObject"
   ],
-  "schema:position": "01",
-  "ebucore:filename": "D-797_001_0001_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "schema:name": "Image List",
+  "ldp:hasMemberRelation": {
+    "@id": "schema:hasPart"
+  },
+  "ldp:isMemberOfRelation": {
+    "@id": "schema:partOf"
+  },
+  "ldp:membershipResource": {
+    "@id": ""
+  }
 }
