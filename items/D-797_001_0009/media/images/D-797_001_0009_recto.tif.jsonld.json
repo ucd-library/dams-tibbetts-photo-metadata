@@ -1,20 +1,7 @@
 {
   "@context": {
-    "ldp": "http://www.w3.org/ns/ldp#",
-    "schema": "http://schema.org/",
-    "fedora": "http://fedora.info/definitions/v4/repository#",
-    "webac": "http://fedora.info/definitions/v4/webac#",
-    "acl": "http://www.w3.org/ns/auth/acl#",
-    "ucdlib": "http://digital.ucdavis.edu/schema#",
-    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+    "schema": "http://schema.org/"
   },
   "@id": "",
-  "@type": [
-    "schema:ImageObject",
-    "schema:CreativeWork",
-    "schema:MediaObject"
-  ],
-  "schema:position": "01",
-  "ebucore:filename": "D-797_001_0009_recto.tif",
-  "ebucore:hasMimeType": "image/tiff"
+  "schema:position": "01"
 }

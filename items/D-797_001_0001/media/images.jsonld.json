@@ -19,7 +19,7 @@
     "@id": "schema:hasPart"
   },
   "ldp:isMemberOfRelation": {
-    "@id": "schema:partOf"
+    "@id": "schema:isPartOf"
   },
   "ldp:membershipResource": {
     "@id": ""
