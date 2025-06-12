@@ -11,7 +11,8 @@
   "@id": "",
   "@type": [
     "schema:CreativeWork",
-    "schema:ImageObject"
+    "schema:ImageObject",
+    "fedora:ArchivalGroup"
   ],
   "schema:about": [
     {
