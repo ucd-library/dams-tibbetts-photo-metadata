@@ -10,11 +10,8 @@
   },
   "@id": "",
   "@type": [
-    "ucdlib:MediaList",
-    "ldp:DirectContainer",
-    "schema:MediaObject"
+    "ldp:DirectContainer"
   ],
-  "schema:name": "Media List",
   "ldp:hasMemberRelation": {
     "@id": "schema:associatedMedia"
   },
