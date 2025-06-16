@@ -13,27 +13,31 @@
     "schema:CreativeWork",
     "schema:ImageObject"
   ],
-  "schema:about": [
-    {
-      "@id": "http://id.worldcat.org/fast/1241997",
-      "schema:name": "California--Sacramento River"
-    },
-    {
-      "@id": "http://id.worldcat.org/fast/1205542",
-      "schema:name": "California--Sacramento"
-    }
-  ],
   "schema:associatedMedia": {
     "@id": "@base:/media/images"
   },
   "schema:name": "Courthouse, Fresno, California",
   "schema:identifier": [
-    "ark:/87293/d32805612"
+    "ark:/87293/d30p0wz52"
   ],
   "schema:image": {
     "@id": "@base:/media/images/D-797_001_0010_recto.tif"
   },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
-  }
+  },
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1207374",
+      "schema:name": "California--Fresno"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1214324",
+      "schema:name": "California--Fresno County"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1692637",
+      "schema:name": "California--California, Northern"
+    }
+  ]
 }

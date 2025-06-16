@@ -13,6 +13,19 @@
     "schema:CreativeWork",
     "schema:ImageObject"
   ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/images"
+  },
+  "schema:name": "Sacramento River, Sacramento, California",
+  "schema:identifier": [
+    "ark:/87293/d3kd1qt0p"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/images/D-797_001_0001_recto.tif"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1241997",
@@ -21,19 +34,10 @@
     {
       "@id": "http://id.worldcat.org/fast/1205542",
       "schema:name": "California--Sacramento"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1692637",
+      "schema:name": "California--California, Northern"
     }
-  ],
-  "schema:associatedMedia": {
-    "@id": "@base:/media/images"
-  },
-  "schema:name": "Sacramento River, Sacramento, California",
-  "schema:identifier": [
-    "ark:/87293/d3j960h7w"
-  ],
-  "schema:image": {
-    "@id": "@base:/media/images/D-797_001_0001_recto.tif"
-  },
-  "schema:license": {
-    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
-  }
+  ]
 }

@@ -1,0 +1,43 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject"
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/images"
+  },
+  "schema:name": "Merced Depot, Merced, California",
+  "schema:identifier": [
+    "ark:/87293/d39w09632"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/images/D-797_001_0014_recto.tif"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1244490",
+      "schema:name": "California--Merced River"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1215705",
+      "schema:name": "California--Merced County"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1692637",
+      "schema:name": "California--California, Northern"
+    }
+  ]
+}
