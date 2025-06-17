@@ -20,6 +20,22 @@
     {
       "@id": "http://id.worldcat.org/fast/1205542",
       "schema:name": "California--Sacramento"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1241997",
+      "schema:name": "California--Sacramento River"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1692637",
+      "schema:name": "Northern California"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1088745",
+      "schema:name": "Railroads--Buildings and structures"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1155007",
+      "schema:name": "Transportation"
     }
   ],
   "schema:datePublished": {
