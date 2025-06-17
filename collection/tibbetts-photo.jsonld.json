@@ -42,7 +42,7 @@
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
     "@value": "2025"
   },
-  "schema:description": "Tibbetts Photo Collection",
+  "schema:description": "This is a collection of photos of the Sacramento River and the surrounding area, taken by the Tibbetts family.",
   "schema:identifier": [
   	"AR-181, D-473, O-001",
  	"ark:/87293/d3kw57r29"
