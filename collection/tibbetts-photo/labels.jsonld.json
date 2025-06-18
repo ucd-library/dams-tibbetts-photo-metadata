@@ -11,7 +11,7 @@
   },
   {
     "@id": "http://id.worldcat.org/fast/608941",
-    "http://schema.org/name": "Fast ID 608941"
+    "http://schema.org/name": "Mission San Francisco Solano (Sonoma, Calif.)"
   },
   {
     "@id": "http://id.worldcat.org/fast/1204481",
@@ -19,7 +19,7 @@
   },
   {
     "@id": "http://id.worldcat.org/fast/1204928",
-    "http://schema.org/name": "Fast ID 1204928"
+    "http://schema.org/name": "California"
   },
   {
     "@id": "http://id.worldcat.org/fast/1205020",
@@ -35,7 +35,7 @@
   },
   {
     "@id": "http://id.worldcat.org/fast/1205468",
-    "http://schema.org/name": "Fast ID 1205468"
+    "http://schema.org/name": "California--Benicia"
   },
   {
     "@id": "http://id.worldcat.org/fast/1205542",
@@ -67,7 +67,7 @@
   },
   {
     "@id": "http://id.worldcat.org/fast/1207368",
-    "http://schema.org/name": "Fast ID 1207368"
+    "http://schema.org/name": "California--Stanislaus County"
   },
   {
     "@id": "http://id.worldcat.org/fast/1207374",
@@ -75,15 +75,15 @@
   },
   {
     "@id": "http://id.worldcat.org/fast/1208065",
-    "http://schema.org/name": "Fast ID 1208065"
+    "http://schema.org/name": "California--Saint Helena"
   },
   {
     "@id": "http://id.worldcat.org/fast/1213279",
-    "http://schema.org/name": "Fast ID 1213279"
+    "http://schema.org/name": "California--Clovis"
   },
   {
     "@id": "http://id.worldcat.org/fast/1213638",
-    "http://schema.org/name": "Fast ID 1213638"
+    "http://schema.org/name": "California--Sonoma County"
   },
   {
     "@id": "http://id.worldcat.org/fast/1214293",
@@ -95,7 +95,7 @@
   },
   {
     "@id": "http://id.worldcat.org/fast/1214323",
-    "http://schema.org/name": "Fast ID 1214323"
+    "http://schema.org/name": "California--Alameda"
   },
   {
     "@id": "http://id.worldcat.org/fast/1214324",
@@ -103,19 +103,19 @@
   },
   {
     "@id": "http://id.worldcat.org/fast/1214375",
-    "http://schema.org/name": "Fast ID 1214375"
+    "http://schema.org/name": "California--Hayward"
   },
   {
     "@id": "http://id.worldcat.org/fast/1215508",
-    "http://schema.org/name": "Fast ID 1215508"
+    "http://schema.org/name": "California--Merced"
   },
   {
     "@id": "http://id.worldcat.org/fast/1215517",
-    "http://schema.org/name": "Fast ID 1215517"
+    "http://schema.org/name": "California--Port Costa"
   },
   {
     "@id": "http://id.worldcat.org/fast/1215705",
-    "http://schema.org/name": "Fast ID 1215705"
+    "http://schema.org/name": "California--Merced County"
   },
   {
     "@id": "http://id.worldcat.org/fast/1218716",
@@ -139,11 +139,11 @@
   },
   {
     "@id": "http://id.worldcat.org/fast/1233898",
-    "http://schema.org/name": "Fast ID 1233898"
+    "http://schema.org/name": "California--Waterford"
   },
   {
     "@id": "http://id.worldcat.org/fast/1238209",
-    "http://schema.org/name": "Fast ID 1238209"
+    "http://schema.org/name": "California--Waterford"
   },
   {
     "@id": "http://id.worldcat.org/fast/1239590",
@@ -151,7 +151,7 @@
   },
   {
     "@id": "http://id.worldcat.org/fast/1240924",
-    "http://schema.org/name": "Fast ID 1240924"
+    "http://schema.org/name": "California--Tuolumne River"
   },
   {
     "@id": "http://id.worldcat.org/fast/1241997",
@@ -167,7 +167,7 @@
   },
   {
     "@id": "http://id.worldcat.org/fast/1245560",
-    "http://schema.org/name": "Fast ID 1245560"
+    "http://schema.org/name": "California--Sonoma Valley"
   },
   {
     "@id": "http://id.worldcat.org/fast/1265162",
@@ -183,7 +183,7 @@
   },
   {
     "@id": "http://id.worldcat.org/fast/1273793",
-    "http://schema.org/name": "Fast ID 1273793"
+    "http://schema.org/name": "California--Napa Valley"
   },
   {
     "@id": "http://id.worldcat.org/fast/1276324",
@@ -199,7 +199,7 @@
   },
   {
     "@id": "http://id.worldcat.org/fast/1296364",
-    "http://schema.org/name": "Fast ID 1296364"
+    "http://schema.org/name": "California--Mariposa Grove"
   },
   {
     "@id": "http://id.worldcat.org/fast/1297683",
@@ -207,7 +207,7 @@
   },
   {
     "@id": "http://id.worldcat.org/fast/1300094",
-    "http://schema.org/name": "Fast ID 1300094"
+    "http://schema.org/name": "Arizona--Navajo Ordnance Depot"
   },
   {
     "@id": "http://id.worldcat.org/fast/1308054",
@@ -215,15 +215,15 @@
   },
   {
     "@id": "http://id.worldcat.org/fast/1308988",
-    "http://schema.org/name": "Fast ID 1308988"
+    "http://schema.org/name": "California--Yosemite National Park"
   },
   {
     "@id": "http://id.worldcat.org/fast/1309116",
-    "http://schema.org/name": "Fast ID 1309116"
+    "http://schema.org/name": "Idaho--Fruitvale"
   },
   {
     "@id": "http://id.worldcat.org/fast/1312901",
-    "http://schema.org/name": "Fast ID 1312901"
+    "http://schema.org/name": "California--San Francisco--North Beach"
   },
   {
     "@id": "http://id.worldcat.org/fast/1317006",
@@ -231,7 +231,7 @@
   },
   {
     "@id": "http://id.worldcat.org/fast/1323407",
-    "http://schema.org/name": "Fast ID 1323407"
+    "http://schema.org/name": "California--Oakland--West Oakland"
   },
   {
     "@id": "http://id.worldcat.org/fast/1327171",
@@ -239,7 +239,7 @@
   },
   {
     "@id": "http://id.worldcat.org/fast/1329932",
-    "http://schema.org/name": "Fast ID 1329932"
+    "http://schema.org/name": "Arizona--Tucson--Old Pueblo District"
   },
   {
     "@id": "http://id.worldcat.org/fast/1333888",
@@ -267,7 +267,7 @@
   },
   {
     "@id": "http://id.worldcat.org/fast/1342887",
-    "http://schema.org/name": "Fast ID 1342887"
+    "http://schema.org/name": "California--Oakland Metropolitan Area"
   },
   {
     "@id": "http://id.worldcat.org/fast/1342888",
@@ -291,7 +291,7 @@
   },
   {
     "@id": "http://id.worldcat.org/fast/1727737",
-    "http://schema.org/name": "Fast ID 1727737"
+    "http://schema.org/name": "California--Merced Irrigation District"
   },
   {
     "@id": "http://id.worldcat.org/fast/1759294",
@@ -303,7 +303,7 @@
   },
   {
     "@id": "http://id.worldcat.org/fast/1867233",
-    "http://schema.org/name": "Fast ID 1867233"
+    "http://schema.org/name": "California--Byron"
   },
   {
     "@id": "http://id.worldcat.org/fast/1871207",
@@ -323,7 +323,7 @@
   },
   {
     "@id": "http://id.worldcat.org/fast/1905366",
-    "http://schema.org/name": "Fast ID 1905366"
+    "http://schema.org/name": "California--Oakland--Children's Fairyland"
   },
   {
     "@id": "http://id.worldcat.org/fast/1924106",
