@@ -39,13 +39,15 @@
     }
   ],
   "schema:creator": "H.C. Tibbitts",
-  "schema:datePublished": "circa 1908",
   "schema:description": "This is a collection of photos of the Sacramento River and the surrounding area, taken by the Tibbetts family. [Find catalog record here](https://oac.cdlib.org/findaid/ark:/13030/c8f47x6f/).",
   "schema:identifier": [
-  	"AR-181, D-473, O-001",
+  	"D-797",
  	"ark:/87293/d3kw57r29"
   ],
-
+"schema:datePublished": {
+  "@type": "http://www.w3.org/2001/XMLSchema#gYear", 
+  "@value": "circa 1908"
+},
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
