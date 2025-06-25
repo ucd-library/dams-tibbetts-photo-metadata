@@ -35,5 +35,9 @@
       "@id": "http://id.worldcat.org/fast/1692637",
       "schema:name": "California--California, Northern"
     }
-  ]
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "circa 1908"
+  }
 }
