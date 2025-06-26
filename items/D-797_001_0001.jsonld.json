@@ -41,10 +41,6 @@
       "schema:name": "California--California, Northern"
     }
   ],
-  "schema:datePublished": {
-    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
-    "@value": "1908"
-  },
   "schema:temporal": "circa 1908",
   "schema:yearPublished": 1908
 }
