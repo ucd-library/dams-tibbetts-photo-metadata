@@ -41,5 +41,11 @@
     "@value": "1908"
   },
   "schema:temporal": "circa 1908",
-  "schema:description": "Copyright 1908 Southern Pacific"
+  "schema:description": "Copyright 1908 Southern Pacific",
+  "schema:copyrightHolder": "Southern Pacific Railway",
+  "schema:additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "Copyright Notice",
+    "value": "Copyright 1908 Southern Pacific"
+  }
 }
