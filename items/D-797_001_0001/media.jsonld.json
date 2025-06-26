@@ -12,6 +12,7 @@
   "@type": [
     "ldp:DirectContainer"
   ],
+  "schema:position": "0001",
   "ldp:hasMemberRelation": {
     "@id": "schema:associatedMedia"
   },
