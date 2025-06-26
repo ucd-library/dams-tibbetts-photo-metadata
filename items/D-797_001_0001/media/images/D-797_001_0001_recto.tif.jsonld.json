@@ -3,5 +3,10 @@
     "schema": "http://schema.org/"
   },
   "@id": "",
-  "schema:position": "01"
+  "schema:position": "01",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "circa 1908"
+  },
+  "schema:temporal": "circa 1908"
 }
