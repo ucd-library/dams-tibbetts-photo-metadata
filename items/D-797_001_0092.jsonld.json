@@ -23,15 +23,9 @@
   "schema:image": {
     "@id": "@base:/media/images/D-797_001_0092_recto.tif"
   },
-  "schema:license": [
-    {
-      "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
-    },
-    {
-      "@type": "schema:License",
-      "schema:name": "Copyright 1908 Southern Pacific"
-    }
-  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
   "schema:about": [
     {
       "@id": "http://id.worldcat.org/fast/1296364",
@@ -51,11 +45,5 @@
     "@value": "1908"
   },
   "schema:temporal": "circa 1908",
-  "schema:description": "Copyright 1908 Southern Pacific",
-  "schema:copyrightHolder": "Southern Pacific Railway",
-  "schema:additionalProperty": {
-    "@type": "PropertyValue",
-    "name": "Copyright Notice",
-    "value": "Copyright 1908 Southern Pacific"
-  }
+  "schema:description": "Copyright 1908 Southern Pacific"
 }
