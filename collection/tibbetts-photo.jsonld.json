@@ -39,14 +39,14 @@
     }
   ],
   "schema:creator": "H.C. Tibbitts",
-  "schema:description": "Howard Clinton Tibbitts (1863-1937) was a San Francisco-based photographer who began working for the Southern Pacific Railway in 1892. By 1898, Tibbitts' work was featured in the Southern Pacific Railroad's tourist magazine, Sunset, which showcased the people and places along the Southern Pacific's Sunset Route (between San Francisco and New Orleans).\n\nThe collection contains ninety-six silver-gelatin photographs taken circa 1908 by Howard Clinton Tibbitts. The photographs focus on California agriculture, vineyards, tourist destinations, towns, and railway infrastructure along the northernmost portion of the Sunset Route, and includes photographs of vineyards in Napa, Sonoma, and Fresno counties, sugar beet farming and refining, water sources relied on by all forms of agriculture in the Central Valley, major thoroughfares and buildings in cities and towns along the route, and photographs of Southern Pacific stations, tracks, roundhouses, ferries, and trains used throughout Northern and Central California.\n\nThe images are arranged in order by negative number. [Find catalog record here](https://oac.cdlib.org/findaid/ark:/13030/c8f47x6f/).",
+  "schema:description": "Howard Clinton Tibbitts (1863-1937) was a San Francisco-based photographer who began working for the Southern Pacific Railway in 1892. By 1898, Tibbitts' work was featured in the Southern Pacific Railroad's tourist magazine, Sunset, which showcased the people and places along the Southern Pacific's Sunset Route (between San Francisco and New Orleans).\n\nThe collection contains ninety-six silver-gelatin photographs taken circa 1908 by Howard Clinton Tibbitts. The photographs focus on California agriculture, vineyards, tourist destinations, towns, and railway infrastructure along the northernmost portion of the Sunset Route, and includes photographs of vineyards in Napa, Sonoma, and Fresno counties, sugar beet farming and refining, water sources relied on by all forms of agriculture in the Central Valley, major thoroughfares and buildings in cities and towns along the route, and photographs of Southern Pacific stations, tracks, roundhouses, ferries, and trains used throughout Northern and Central California.\n\nThe images are arranged in order by negative number. [The collection's finding aid is available at the Online Archive of California.](https://oac.cdlib.org/findaid/ark:/13030/c8f47x6f/).",
   "schema:identifier": [
   	"D-797",
  	"ark:/87293/d3kw57r29"
   ],
 "schema:datePublished": {
   "@type": "http://www.w3.org/2001/XMLSchema#gYear", 
-  "@value": "circa 1908"
+  "@value": "1908"
 },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
