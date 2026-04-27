@@ -18,7 +18,7 @@
   },
   "schema:name": "1703 - County Hospital, Stockton, California",
   "schema:identifier": [
-    "ark:/87293/d30863d1k"
+    "/ark:/87293/d30863d1k"
   ],
   "schema:image": {
     "@id": "@base:/media/images/D-797_001_0019_recto.tif"
